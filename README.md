@@ -1,11 +1,14 @@
 # Netflix Dataset Analysis
 
 
+
 ## Objective
 
 The primary objective of this project is to analyze the Netflix dataset to uncover insights about the types of content available, their distribution over time, and the sentiment associated with content descriptions. By visualizing these patterns, we aim to provide a comprehensive overview of Netflix's content library, aiding in strategic decision-making and enhancing user experience.
 
+
 ## Code Overview
+
 
 ### Libraries Used
 
@@ -21,10 +24,13 @@ The primary objective of this project is to analyze the Netflix dataset to uncov
 
 6. textblob
 
+
+
 ### Data Loading and Preprocessing
 
-Loaded the dataset and handled missing values.
-Renamed columns for better readability.
+The dataset was loaded using pandas and missing values were handled by using dropna and fillna methods. Columns were renamed for better readability, and unnecessary columns were dropped to streamline the analysis. The data was then grouped and categorized to facilitate deeper insights.
+
+
 
 ### Insights Derived
 
@@ -38,7 +44,7 @@ Visualized the sentiment distribution over the years to identify trends.
 **Content Type Analysis**: 
 
 Visualized the distribution of Movies and TV Shows on Netflix over the past 25 years.
-Observed the ratio of Movies to TV Shows and how it has evolved.### Ratings Distribution
+Observed the ratio of Movies to TV Shows and how it has evolved.Ratings Distribution
 Analyzed and visualized the distribution of content ratings using bar and pie charts.
 
 
@@ -52,25 +58,37 @@ Extracted and visualized the top actors based on the number of titles they appea
 Identified the top countries contributing to Netflix's content library.Analyzed the distribution of content by country and genre.
 
 
+
 ## Visualizations
 
 
-**Vertical Bar Graph**: Used for Sentiment Analysis of content descriptions.Displays the sentiment distribution of content descriptions over the years.
+**Vertical Bar Graph**:
+
+Used for Sentiment Analysis of content descriptions.Displays the sentiment distribution of content descriptions over the years.
 
 
-**Stack Plot**:Used for Content Type Analysis.Shows the number of Movies and TV Shows released over the past 25 years.
+**Stack Plot**:
+
+Used for Content Type Analysis.Shows the number of Movies and TV Shows released over the past 25 years.
 
 
-**Horizontal Bar Chart**: Used for Ratings Distribution.Compares the number of Movies and TV Shows for each rating.
+**Horizontal Bar Chart**:
+
+Used for Ratings Distribution.Compares the number of Movies and TV Shows for each rating.
 
 
-**Pie Chart**: Used for Ratings Distribution.Illustrates the overall distribution of content ratings.
+**Pie Chart**: 
+
+Used for Ratings Distribution.Illustrates the overall distribution of content ratings.
 
 
-**Count Plot**: Used for Top Actors and Country and Genre Analysis.Displays the top 10 actors based on the number of titles and identifies the top countries contributing to Netflix's content library.
+**Count Plot**: 
+
+Used for Top Actors and Country and Genre Analysis.Displays the top 10 actors based on the number of titles and identifies the top countries contributing to Netflix's content library.
 
 
 **Color Palette Plot**: Used to visualize Netflix brand colors.Displays the Netflix brand color palette using sns.palplot.
+
 
 
 ## Conclusion
