@@ -29,30 +29,39 @@ Renamed columns for better readability.
 ### Insights Derived
 
 
-**Sentiment Analysis**: Analyzed the sentiment of content descriptions using TextBlob, categorizing them into Positive, Neutral, and Negative sentiments.
+**Sentiment Analysis**: 
+
+Analyzed the sentiment of content descriptions using TextBlob, categorizing them into Positive, Neutral, and Negative sentiments.
 Visualized the sentiment distribution over the years to identify trends.
 
 
-**Content Type Analysis**: Visualized the distribution of Movies and TV Shows on Netflix over the past 25 years.
+**Content Type Analysis**: 
+
+Visualized the distribution of Movies and TV Shows on Netflix over the past 25 years.
 Observed the ratio of Movies to TV Shows and how it has evolved.### Ratings Distribution
 Analyzed and visualized the distribution of content ratings using bar and pie charts.
 
 
-**Top Actors Analysis**: Extracted and visualized the top actors based on the number of titles they appear in.
+**Top Actors Analysis**: 
+
+Extracted and visualized the top actors based on the number of titles they appear in.
 
 
-**Country and Genre Analysis**: Identified the top countries contributing to Netflix's content library.Analyzed the distribution of content by country and genre.
+**Country and Genre Analysis**:
+
+Identified the top countries contributing to Netflix's content library.Analyzed the distribution of content by country and genre.
 
 
 ## Visualizations
 
-**Bar Graph**: Used for Sentiment Analysis of content descriptions.Displays the sentiment distribution of content descriptions over the years.
+
+**Vertical Bar Graph**: Used for Sentiment Analysis of content descriptions.Displays the sentiment distribution of content descriptions over the years.
 
 
 **Stack Plot**:Used for Content Type Analysis.Shows the number of Movies and TV Shows released over the past 25 years.
 
 
-**Bar Chart**: Used for Ratings Distribution.Compares the number of Movies and TV Shows for each rating.
+**Horizontal Bar Chart**: Used for Ratings Distribution.Compares the number of Movies and TV Shows for each rating.
 
 
 **Pie Chart**: Used for Ratings Distribution.Illustrates the overall distribution of content ratings.
