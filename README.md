@@ -1,6 +1,8 @@
 # Netflix Dataset Analysis
 
+## About
 
+This project involves a comprehensive analysis of a Netflix dataset to uncover insights and patterns in the content offered on the platform. By leveraging Python and various data visualization tools, the project aims to present clear and meaningful interpretations of the data, highlighting trends in content type, ratings, and more.
 
 ## Objective
 
