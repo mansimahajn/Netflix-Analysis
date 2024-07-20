@@ -3,9 +3,9 @@
 ## Objective
 The primary objective of this project is to analyze the Netflix dataset to uncover insights about the types of content available, their distribution over time, and the sentiment associated with content descriptions. By visualizing these patterns, we aim to provide a comprehensive overview of Netflix's content library, aiding in strategic decision-making and enhancing user experience.
 
-# Code Overview
+## Code Overview
 
-## Libraries Used
+### Libraries Used
 numpy
 pandas
 seaborn
@@ -13,25 +13,25 @@ matplotlib
 plotly
 textblob
 
-## Data Loading and Preprocessing
+### Data Loading and Preprocessing
 Loaded the dataset and handled missing values.
 Renamed columns for better readability.
 
-## Insights Derived
+### Insights Derived
 
-### Sentiment Analysis
+**Sentiment Analysis**
 Analyzed the sentiment of content descriptions using TextBlob, categorizing them into Positive, Neutral, and Negative sentiments.
 Visualized the sentiment distribution over the years to identify trends.
 
-### Content Type Analysis
+**Content Type Analysis**
 Visualized the distribution of Movies and TV Shows on Netflix over the past 25 years.
 Observed the ratio of Movies to TV Shows and how it has evolved.### Ratings Distribution
 Analyzed and visualized the distribution of content ratings using bar and pie charts.
 
-### Top Actors Analysis
+**Top Actors Analysis**
 Extracted and visualized the top actors based on the number of titles they appear in.
 
-### Country and Genre Analysis
+**Country and Genre Analysis**
 Identified the top countries contributing to Netflix's content library.Analyzed the distribution of content by country and genre.
 
 ## Visualizations
