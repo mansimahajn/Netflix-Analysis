@@ -7,9 +7,6 @@
 The primary objective of this project is to analyze the Netflix dataset to uncover insights about the types of content available, their distribution over time, and the sentiment associated with content descriptions. By visualizing these patterns, we aim to provide a comprehensive overview of Netflix's content library, aiding in strategic decision-making and enhancing user experience.
 
 
-## Code Overview
-
-
 ### Libraries Used
 
 1. numpy
@@ -23,6 +20,12 @@ The primary objective of this project is to analyze the Netflix dataset to uncov
 5. plotly
 
 6. textblob
+
+
+
+## Code Overview
+
+
 
 
 
