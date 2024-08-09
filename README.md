@@ -53,11 +53,6 @@ Observed the ratio of Movies to TV Shows and how it has evolved.Ratings Distribu
 Analyzed and visualized the distribution of content ratings using bar and pie charts.
 
 
-**Top Actors Analysis**: 
-
-Extracted and visualized the top actors based on the number of titles they appear in.
-
-
 **Country and Genre Analysis**:
 
 Identified the top countries contributing to Netflix's content library.Analyzed the distribution of content by country and genre.
